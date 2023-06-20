@@ -1,2 +1,3 @@
-MONGO_URI=mongodb+srv://rizwan:rizwan@todo.nss4qbi.mongodb.net/?retryWrites=true&w=majority
+//Change file name to .env
+MONGO_URI=     provide mongo db uri
 PORT=8000
