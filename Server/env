@@ -1,0 +1,2 @@
+MONGO_URI=mongodb+srv://rizwan:rizwan@todo.nss4qbi.mongodb.net/?retryWrites=true&w=majority
+PORT=8000
